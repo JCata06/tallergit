@@ -12,3 +12,29 @@
     Para hacer un commit se utiliza git commit -m 
 7. En sus propias palabras, ¿qué es un commit?
     Un commit es un proceso mediante el cual se guarda el estado actual dentro de un proyecto
+
+
+
+3.
+On branch jimena_cabrera
+Your branch is up to date with 'origin/jimena_cabrera'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   1.commit/sandwich.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1.commit/jimena_cabrera.txt
+15.
+On branch jimena_cabrera
+Your branch is ahead of 'origin/jimena_cabrera' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    1.commit/sandwich2_feo.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
