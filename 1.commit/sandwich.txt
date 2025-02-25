@@ -2,3 +2,7 @@ pan
 queso
 medallón
 pan
+lechuga
+tomate
+pollo
+salsas
